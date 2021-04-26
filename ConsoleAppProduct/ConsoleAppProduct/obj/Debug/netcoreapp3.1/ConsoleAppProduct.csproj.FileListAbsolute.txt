@@ -1,0 +1,13 @@
+C:\Users\bishw\Desktop\C#\ConsoleAppProduct\ConsoleAppProduct\obj\Debug\netcoreapp3.1\ConsoleAppProduct.csprojAssemblyReference.cache
+C:\Users\bishw\Desktop\C#\ConsoleAppProduct\ConsoleAppProduct\obj\Debug\netcoreapp3.1\ConsoleAppProduct.AssemblyInfoInputs.cache
+C:\Users\bishw\Desktop\C#\ConsoleAppProduct\ConsoleAppProduct\obj\Debug\netcoreapp3.1\ConsoleAppProduct.AssemblyInfo.cs
+C:\Users\bishw\Desktop\C#\ConsoleAppProduct\ConsoleAppProduct\obj\Debug\netcoreapp3.1\ConsoleAppProduct.csproj.CoreCompileInputs.cache
+C:\Users\bishw\Desktop\C#\ConsoleAppProduct\ConsoleAppProduct\bin\Debug\netcoreapp3.1\ConsoleAppProduct.exe
+C:\Users\bishw\Desktop\C#\ConsoleAppProduct\ConsoleAppProduct\bin\Debug\netcoreapp3.1\ConsoleAppProduct.deps.json
+C:\Users\bishw\Desktop\C#\ConsoleAppProduct\ConsoleAppProduct\bin\Debug\netcoreapp3.1\ConsoleAppProduct.runtimeconfig.json
+C:\Users\bishw\Desktop\C#\ConsoleAppProduct\ConsoleAppProduct\bin\Debug\netcoreapp3.1\ConsoleAppProduct.runtimeconfig.dev.json
+C:\Users\bishw\Desktop\C#\ConsoleAppProduct\ConsoleAppProduct\bin\Debug\netcoreapp3.1\ConsoleAppProduct.dll
+C:\Users\bishw\Desktop\C#\ConsoleAppProduct\ConsoleAppProduct\bin\Debug\netcoreapp3.1\ConsoleAppProduct.pdb
+C:\Users\bishw\Desktop\C#\ConsoleAppProduct\ConsoleAppProduct\obj\Debug\netcoreapp3.1\ConsoleAppProduct.dll
+C:\Users\bishw\Desktop\C#\ConsoleAppProduct\ConsoleAppProduct\obj\Debug\netcoreapp3.1\ConsoleAppProduct.pdb
+C:\Users\bishw\Desktop\C#\ConsoleAppProduct\ConsoleAppProduct\obj\Debug\netcoreapp3.1\ConsoleAppProduct.genruntimeconfig.cache

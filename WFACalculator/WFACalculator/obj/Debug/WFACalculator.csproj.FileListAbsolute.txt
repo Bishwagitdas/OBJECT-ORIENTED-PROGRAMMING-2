@@ -1,0 +1,10 @@
+C:\Users\bishw\Desktop\C#\WFACalculator\WFACalculator\bin\Debug\WFACalculator.exe.config
+C:\Users\bishw\Desktop\C#\WFACalculator\WFACalculator\bin\Debug\WFACalculator.exe
+C:\Users\bishw\Desktop\C#\WFACalculator\WFACalculator\bin\Debug\WFACalculator.pdb
+C:\Users\bishw\Desktop\C#\WFACalculator\WFACalculator\obj\Debug\WFACalculator.csprojAssemblyReference.cache
+C:\Users\bishw\Desktop\C#\WFACalculator\WFACalculator\obj\Debug\WFACalculator.Calculator.resources
+C:\Users\bishw\Desktop\C#\WFACalculator\WFACalculator\obj\Debug\WFACalculator.Properties.Resources.resources
+C:\Users\bishw\Desktop\C#\WFACalculator\WFACalculator\obj\Debug\WFACalculator.csproj.GenerateResource.cache
+C:\Users\bishw\Desktop\C#\WFACalculator\WFACalculator\obj\Debug\WFACalculator.csproj.CoreCompileInputs.cache
+C:\Users\bishw\Desktop\C#\WFACalculator\WFACalculator\obj\Debug\WFACalculator.exe
+C:\Users\bishw\Desktop\C#\WFACalculator\WFACalculator\obj\Debug\WFACalculator.pdb

@@ -1,0 +1,13 @@
+C:\Users\bishw\Desktop\C#\ConsoleAppInherit\ConsoleAppInherit\bin\Debug\netcoreapp3.1\ConsoleAppInherit.exe
+C:\Users\bishw\Desktop\C#\ConsoleAppInherit\ConsoleAppInherit\bin\Debug\netcoreapp3.1\ConsoleAppInherit.deps.json
+C:\Users\bishw\Desktop\C#\ConsoleAppInherit\ConsoleAppInherit\bin\Debug\netcoreapp3.1\ConsoleAppInherit.runtimeconfig.json
+C:\Users\bishw\Desktop\C#\ConsoleAppInherit\ConsoleAppInherit\bin\Debug\netcoreapp3.1\ConsoleAppInherit.runtimeconfig.dev.json
+C:\Users\bishw\Desktop\C#\ConsoleAppInherit\ConsoleAppInherit\bin\Debug\netcoreapp3.1\ConsoleAppInherit.dll
+C:\Users\bishw\Desktop\C#\ConsoleAppInherit\ConsoleAppInherit\bin\Debug\netcoreapp3.1\ConsoleAppInherit.pdb
+C:\Users\bishw\Desktop\C#\ConsoleAppInherit\ConsoleAppInherit\obj\Debug\netcoreapp3.1\ConsoleAppInherit.csprojAssemblyReference.cache
+C:\Users\bishw\Desktop\C#\ConsoleAppInherit\ConsoleAppInherit\obj\Debug\netcoreapp3.1\ConsoleAppInherit.AssemblyInfoInputs.cache
+C:\Users\bishw\Desktop\C#\ConsoleAppInherit\ConsoleAppInherit\obj\Debug\netcoreapp3.1\ConsoleAppInherit.AssemblyInfo.cs
+C:\Users\bishw\Desktop\C#\ConsoleAppInherit\ConsoleAppInherit\obj\Debug\netcoreapp3.1\ConsoleAppInherit.csproj.CoreCompileInputs.cache
+C:\Users\bishw\Desktop\C#\ConsoleAppInherit\ConsoleAppInherit\obj\Debug\netcoreapp3.1\ConsoleAppInherit.dll
+C:\Users\bishw\Desktop\C#\ConsoleAppInherit\ConsoleAppInherit\obj\Debug\netcoreapp3.1\ConsoleAppInherit.pdb
+C:\Users\bishw\Desktop\C#\ConsoleAppInherit\ConsoleAppInherit\obj\Debug\netcoreapp3.1\ConsoleAppInherit.genruntimeconfig.cache

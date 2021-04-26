@@ -1,0 +1,13 @@
+C:\Users\bishw\Desktop\C#\ConsoleAppAccountManagementSystem\ConsoleAppAccountManagementSystem\bin\Debug\netcoreapp3.1\ConsoleAppAccountManagementSystem.exe
+C:\Users\bishw\Desktop\C#\ConsoleAppAccountManagementSystem\ConsoleAppAccountManagementSystem\bin\Debug\netcoreapp3.1\ConsoleAppAccountManagementSystem.deps.json
+C:\Users\bishw\Desktop\C#\ConsoleAppAccountManagementSystem\ConsoleAppAccountManagementSystem\bin\Debug\netcoreapp3.1\ConsoleAppAccountManagementSystem.runtimeconfig.json
+C:\Users\bishw\Desktop\C#\ConsoleAppAccountManagementSystem\ConsoleAppAccountManagementSystem\bin\Debug\netcoreapp3.1\ConsoleAppAccountManagementSystem.runtimeconfig.dev.json
+C:\Users\bishw\Desktop\C#\ConsoleAppAccountManagementSystem\ConsoleAppAccountManagementSystem\bin\Debug\netcoreapp3.1\ConsoleAppAccountManagementSystem.dll
+C:\Users\bishw\Desktop\C#\ConsoleAppAccountManagementSystem\ConsoleAppAccountManagementSystem\bin\Debug\netcoreapp3.1\ConsoleAppAccountManagementSystem.pdb
+C:\Users\bishw\Desktop\C#\ConsoleAppAccountManagementSystem\ConsoleAppAccountManagementSystem\obj\Debug\netcoreapp3.1\ConsoleAppAccountManagementSystem.csprojAssemblyReference.cache
+C:\Users\bishw\Desktop\C#\ConsoleAppAccountManagementSystem\ConsoleAppAccountManagementSystem\obj\Debug\netcoreapp3.1\ConsoleAppAccountManagementSystem.AssemblyInfoInputs.cache
+C:\Users\bishw\Desktop\C#\ConsoleAppAccountManagementSystem\ConsoleAppAccountManagementSystem\obj\Debug\netcoreapp3.1\ConsoleAppAccountManagementSystem.AssemblyInfo.cs
+C:\Users\bishw\Desktop\C#\ConsoleAppAccountManagementSystem\ConsoleAppAccountManagementSystem\obj\Debug\netcoreapp3.1\ConsoleAppAccountManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\bishw\Desktop\C#\ConsoleAppAccountManagementSystem\ConsoleAppAccountManagementSystem\obj\Debug\netcoreapp3.1\ConsoleAppAccountManagementSystem.dll
+C:\Users\bishw\Desktop\C#\ConsoleAppAccountManagementSystem\ConsoleAppAccountManagementSystem\obj\Debug\netcoreapp3.1\ConsoleAppAccountManagementSystem.pdb
+C:\Users\bishw\Desktop\C#\ConsoleAppAccountManagementSystem\ConsoleAppAccountManagementSystem\obj\Debug\netcoreapp3.1\ConsoleAppAccountManagementSystem.genruntimeconfig.cache

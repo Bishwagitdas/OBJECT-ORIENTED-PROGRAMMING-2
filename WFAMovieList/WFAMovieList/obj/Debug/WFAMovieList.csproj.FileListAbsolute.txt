@@ -1,0 +1,10 @@
+C:\Users\bishw\Desktop\C#\WFAMovieList\WFAMovieList\bin\Debug\WFAMovieList.exe.config
+C:\Users\bishw\Desktop\C#\WFAMovieList\WFAMovieList\bin\Debug\WFAMovieList.exe
+C:\Users\bishw\Desktop\C#\WFAMovieList\WFAMovieList\bin\Debug\WFAMovieList.pdb
+C:\Users\bishw\Desktop\C#\WFAMovieList\WFAMovieList\obj\Debug\WFAMovieList.csprojAssemblyReference.cache
+C:\Users\bishw\Desktop\C#\WFAMovieList\WFAMovieList\obj\Debug\WFAMovieList.FormMovie.resources
+C:\Users\bishw\Desktop\C#\WFAMovieList\WFAMovieList\obj\Debug\WFAMovieList.Properties.Resources.resources
+C:\Users\bishw\Desktop\C#\WFAMovieList\WFAMovieList\obj\Debug\WFAMovieList.csproj.GenerateResource.cache
+C:\Users\bishw\Desktop\C#\WFAMovieList\WFAMovieList\obj\Debug\WFAMovieList.csproj.CoreCompileInputs.cache
+C:\Users\bishw\Desktop\C#\WFAMovieList\WFAMovieList\obj\Debug\WFAMovieList.exe
+C:\Users\bishw\Desktop\C#\WFAMovieList\WFAMovieList\obj\Debug\WFAMovieList.pdb

@@ -1,0 +1,10 @@
+C:\Users\bishw\Desktop\C#\WFAUserLogin\WFAUserLogin\bin\Debug\WFAUserLogin.exe.config
+C:\Users\bishw\Desktop\C#\WFAUserLogin\WFAUserLogin\bin\Debug\WFAUserLogin.exe
+C:\Users\bishw\Desktop\C#\WFAUserLogin\WFAUserLogin\bin\Debug\WFAUserLogin.pdb
+C:\Users\bishw\Desktop\C#\WFAUserLogin\WFAUserLogin\obj\Debug\WFAUserLogin.csprojAssemblyReference.cache
+C:\Users\bishw\Desktop\C#\WFAUserLogin\WFAUserLogin\obj\Debug\WFAUserLogin.Form1.resources
+C:\Users\bishw\Desktop\C#\WFAUserLogin\WFAUserLogin\obj\Debug\WFAUserLogin.Properties.Resources.resources
+C:\Users\bishw\Desktop\C#\WFAUserLogin\WFAUserLogin\obj\Debug\WFAUserLogin.csproj.GenerateResource.cache
+C:\Users\bishw\Desktop\C#\WFAUserLogin\WFAUserLogin\obj\Debug\WFAUserLogin.csproj.CoreCompileInputs.cache
+C:\Users\bishw\Desktop\C#\WFAUserLogin\WFAUserLogin\obj\Debug\WFAUserLogin.exe
+C:\Users\bishw\Desktop\C#\WFAUserLogin\WFAUserLogin\obj\Debug\WFAUserLogin.pdb

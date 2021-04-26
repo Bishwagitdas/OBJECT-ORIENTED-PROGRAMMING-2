@@ -1,0 +1,13 @@
+C:\Users\bishw\Desktop\C#\ConsoleAppClass\ConsoleAppClass\bin\Debug\netcoreapp3.1\ConsoleAppClass.exe
+C:\Users\bishw\Desktop\C#\ConsoleAppClass\ConsoleAppClass\bin\Debug\netcoreapp3.1\ConsoleAppClass.deps.json
+C:\Users\bishw\Desktop\C#\ConsoleAppClass\ConsoleAppClass\bin\Debug\netcoreapp3.1\ConsoleAppClass.runtimeconfig.json
+C:\Users\bishw\Desktop\C#\ConsoleAppClass\ConsoleAppClass\bin\Debug\netcoreapp3.1\ConsoleAppClass.runtimeconfig.dev.json
+C:\Users\bishw\Desktop\C#\ConsoleAppClass\ConsoleAppClass\bin\Debug\netcoreapp3.1\ConsoleAppClass.dll
+C:\Users\bishw\Desktop\C#\ConsoleAppClass\ConsoleAppClass\bin\Debug\netcoreapp3.1\ConsoleAppClass.pdb
+C:\Users\bishw\Desktop\C#\ConsoleAppClass\ConsoleAppClass\obj\Debug\netcoreapp3.1\ConsoleAppClass.csprojAssemblyReference.cache
+C:\Users\bishw\Desktop\C#\ConsoleAppClass\ConsoleAppClass\obj\Debug\netcoreapp3.1\ConsoleAppClass.AssemblyInfoInputs.cache
+C:\Users\bishw\Desktop\C#\ConsoleAppClass\ConsoleAppClass\obj\Debug\netcoreapp3.1\ConsoleAppClass.AssemblyInfo.cs
+C:\Users\bishw\Desktop\C#\ConsoleAppClass\ConsoleAppClass\obj\Debug\netcoreapp3.1\ConsoleAppClass.csproj.CoreCompileInputs.cache
+C:\Users\bishw\Desktop\C#\ConsoleAppClass\ConsoleAppClass\obj\Debug\netcoreapp3.1\ConsoleAppClass.dll
+C:\Users\bishw\Desktop\C#\ConsoleAppClass\ConsoleAppClass\obj\Debug\netcoreapp3.1\ConsoleAppClass.pdb
+C:\Users\bishw\Desktop\C#\ConsoleAppClass\ConsoleAppClass\obj\Debug\netcoreapp3.1\ConsoleAppClass.genruntimeconfig.cache
